@@ -1,2 +1,0 @@
--help : Launches help file, you're already here
--version : This application uses ruby ~version 2.7.1p83
