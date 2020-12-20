@@ -1,12 +1,12 @@
 # Snowman Weather App
 
-GITHUB LINK
-TRELLO BOARD LINK
-SLIDE DECK LINK
+[GITHUB LINK] (https://github.com/iri6ka/snowman_weather_app)
+[TRELLO BOARD] (https://trello.com/b/K0z1wQ5F/snowman-weather-app)
+[SLIDE DECK] (https://docs.google.com/presentation/d/1TiodhFck0bXgd9WnrGsd4DLVyNx5QTGorSmvxqasXoE/edit?usp=sharing)
 
 ### Purpose
-Snowman Weather app is Weather application written in Ruby for terminal which will give you options to find out weather for today, tomorrow, and 5 days (weather api). City lists will be also uploaded through OpenWeather Ruby Client (link)
-https://github.com/dblock/open-weather-ruby-client
+Snowman Weather app is Weather application written in Ruby for terminal which will give you options to find out weather for today, tomorrow, and 5 days (weather api). City lists will be also uploaded through [OpenWeather Ruby Client]
+(https://github.com/dblock/open-weather-ruby-client)
 
 ##### Reason
 I decided to develop this app as it was intersting to me how developers are working with various api. As I was going through research, I found various api applications and especially weather applications. It was important for me as for a junior developer to understand the methods and calls behind api calls and the whole journey was quite challenging but very rewarding as I finally figured out how to use it.
@@ -23,49 +23,49 @@ Snowman Weather Application is supposed to interact with the user the following 
 
 Application contains 3 main features.
 1. Weather api. Through Open Weather Ruby client I was able to make api call to OpenWeather website and request weather data from their database. At the moment it calls for the following data.
-Example:
-
 2. Snowman Weather app uses `ascii art` (`$ artii gem`) to process text into `ascii` art.
-Example:
-
 3. The app is reading external txt files. At the moment the app uses `installation.txt` file in order to show what are the minimal requirements to run this application.
-Examaple:
-
 4. Minimal animation
 At the end of the program once user selected option to quit, the terminal asks to enter any key and then puts `*****` with animation, and then puts `'Goodbye'`.
-Example:
 
+Examples:
+![Example1](../docs/screenshots/ascii name.png)
+![Example2](../docs/screenshots/help file.png)
 
 ## Diagram
 
-![Alt text here](images/someimage.png)
-## Requirements
+![Link to diagram](../docs/Diagram.png)
 
-## Project Management
+## Trello
+![Trello1](../docs/screenshots/trello 2.png)
+
+![Trello2](../docs/screenshots/Trello 3.png)
+![Trello3](../docs/screenshots/Trello 4.png)
+![Trello4](../docs/screenshots/trello 5.png)
+![Trello5](../docs/screenshots/Trello 6.png)
+![Trello5](../docs/screenshots/Trello 7.png)
 
 ## Implementation plan
 
-15-16
+*15-16 Dec 2020*
 Initial research on the application, idea on what the application might be.
 
-17-18 Dec 2020
+*17-18 Dec 2020*
 For a few days I have been reasearching ways how to implement weather api for my application. As I came across OpenWeather API, I was planning to use it normal way at the beginning. However then I came across OpenWeather Ruby Client and decided to use that one. It seemed to be much simpler to implement this data and it was more straighforward. I managed to run a few error tests and now if the input of city and country don't match in the exsting list of countries and cities, it returns an error message.
 
 Trello board creation.
 
-CODE insert!!!!!!!!
-
-19 Dec 6 pm
+*19 Dec 6 pm*
 After receiving commentary from teachers based on my presentation, I decided to focus on the mvp and make sure that the core application runs without implementing major sprinkles.
 
-20 Dec 2 pm
+*20 Dec 2 pm*
 After consulting educators, I needed to save my api_key in external file and then parse it to the main file. I ran a few tests in a separate file and it returned the required key to me, however it didn't run in the main file. I would appreciate to get some commentary on the best way to parse it to the index.rb file so I know for the future.
 
-20 Dec 6 pm
+*20 Dec 6 pm*
 I had to refactor ascii images of the snowman as I couldn't sort out how ascii art gem works
 Now focusing on filling in documnetation.
 
-20 Dec 7 pm
+*20 Dec 7 pm*
 Working on command line arguments
 - help
 - version
@@ -74,14 +74,24 @@ Working on command line arguments
 ## Testing
 
 There are a few tests running throughout the app. 
-1. Wrong input of city and country. If city and country don't exist, then the user gets an error message:
+Wrong input of city and country. If city and country don't exist, then the user gets error messages. A few other wrong inputs within the app give error messages.
+![Error1](../docs/screenshots/Error handline 2.png)
+![Error2](../docs/screenshots/error handling 1.png)
+![Error2](../docs/screenshots/error handling 2.png)
+![Error2](../docs/screenshots/error handling 3.png)
+![Error2](../docs/screenshots/error handling 4.png)
+![Error2](../docs/screenshots/error handling 5.png)
+![Error2](../docs/screenshots/error handling 6.png)
+![Error2](../docs/screenshots/error handling 7.png)
+
+
 
 ## Backlog
 I sat down and refactored some of the donut/sprinkles requirements within my Trello board. Animation stayed as a backlog sprinkle and ascii images of snowman has been downgraded to sprinkle. I will try to implement those after submitting my application. 
 Not complete:
 - [x] animation (partially complete)
 - [x] ascii images of snowman (not complete)
-https://www.rubydoc.info/gems/ascii-image/0.1.2/ASCII_Image 
+[Link](https://www.rubydoc.info/gems/ascii-image/0.1.2/ASCII_Image)
 
 ## Help Documentation and System requirements
 
@@ -106,5 +116,14 @@ To run Weather Snowman App you would need to install the following:
 Enjoy!
 
 ```
+**Gem** dependencies can be found through Gemfile & Gemfile.lock
 
 ### Code
+
+![Example1](../docs/screenshots/code 1.png)
+![Example2](../docs/screenshots/code 2.png)
+![Example3](../docs/screenshots/code 3.png)
+![Example4](../docs/screenshots/code 4.png)
+![Example5](../docs/screenshots/code 5.png)
+![Example6](../docs/screenshots/code 6.png)
+![Example7](../docs/screenshots/code 7.png)
