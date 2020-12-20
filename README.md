@@ -1,11 +1,13 @@
 # Snowman Weather App
 
-[GITHUB LINK] (https://github.com/iri6ka/snowman_weather_app)
-[TRELLO BOARD] (https://trello.com/b/K0z1wQ5F/snowman-weather-app)
-[SLIDE DECK] (https://docs.google.com/presentation/d/1TiodhFck0bXgd9WnrGsd4DLVyNx5QTGorSmvxqasXoE/edit?usp=sharing)
+[GITHUB LINK]: (https://github.com/iri6ka/snowman_weather_app)
+
+[TRELLO BOARD]: (https://trello.com/b/K0z1wQ5F/snowman-weather-app)
+
+[SLIDE DECK]: (https://docs.google.com/presentation/d/1TiodhFck0bXgd9WnrGsd4DLVyNx5QTGorSmvxqasXoE/edit?usp=sharing)
 
 ### Purpose
-Snowman Weather app is Weather application written in Ruby for terminal which will give you options to find out weather for today, tomorrow, and 5 days (weather api). City lists will be also uploaded through [OpenWeather Ruby Client]
+Snowman Weather app is Weather application written in Ruby for terminal which will give you options to find out weather for today, tomorrow, and 5 days (weather api). City lists will be also uploaded through [OpenWeather Ruby Client]:
 (https://github.com/dblock/open-weather-ruby-client)
 
 ##### Reason
@@ -29,21 +31,25 @@ Application contains 3 main features.
 At the end of the program once user selected option to quit, the terminal asks to enter any key and then puts `*****` with animation, and then puts `'Goodbye'`.
 
 Examples:
-![Example1](../docs/screenshots/ascii name.png)
-![Example2](../docs/screenshots/help file.png)
+![Example1](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/ascii%20name.png)
+![Example2](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/help%20file.png)
 
 ## Diagram
 
 ![Link to diagram](../docs/Diagram.png)
 
 ## Trello
-![Trello1](../docs/screenshots/trello 2.png)
+![](../docs/screenshots/trello 2.png?raw=true)
 
-![Trello2](../docs/screenshots/Trello 3.png)
-![Trello3](../docs/screenshots/Trello 4.png)
-![Trello4](../docs/screenshots/trello 5.png)
-![Trello5](../docs/screenshots/Trello 6.png)
-![Trello5](../docs/screenshots/Trello 7.png)
+![](../docs/screenshots/Trello 3.png?raw=true)
+
+![](../docs/screenshots/Trello 4.png?raw=true)
+
+![](../docs/screenshots/trello 5.png?raw=true)
+
+![](../docs/screenshots/Trello 6.png?raw=true)
+
+![](../docs/screenshots/Trello 7.png?raw=true)
 
 ## Implementation plan
 
@@ -69,13 +75,13 @@ Now focusing on filling in documnetation.
 Working on command line arguments
 - help
 - version
-![Command-line-argument](../docs/screenshots/terminal arguments Screen Shot 2020-12-20 at 8.05.33 pm.png)
+![](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/terminal%20arguments%20Screen%20Shot%202020-12-20%20at%208.05.33%20pm.png?raw=true)
 
 ## Testing
 
 There are a few tests running throughout the app. 
 Wrong input of city and country. If city and country don't exist, then the user gets error messages. A few other wrong inputs within the app give error messages.
-![Error1](../docs/screenshots/Error handline 2.png)
+![Error1](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/Error%20handline%202.png?raw=true)
 ![Error2](../docs/screenshots/error handling 1.png)
 ![Error2](../docs/screenshots/error handling 2.png)
 ![Error2](../docs/screenshots/error handling 3.png)
