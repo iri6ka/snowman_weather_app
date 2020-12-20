@@ -12,7 +12,7 @@ Snowman Weather app is Weather application written in Ruby for terminal which wi
 ##### Reason
 I decided to develop this app as it was intersting to me how developers are working with various api. As I was going through research, I found various api applications and especially weather applications. It was important for me as for a junior developer to understand the methods and calls behind api calls and the whole journey was quite challenging but very rewarding as I finally figured out how to use it.
 
-###### Market & Usage
+##### Market & Usage
 There are various apps over there and I wanted to make a version of the weather app that would be interactive and would create interaction of a snowman depending on weather forecast. The current version of the application is a variation of minimal viable product, but it is important to have an understanding that mvp is working correctly before implementing 'sprinkles' and adding various new features.
 
 I belive that this app might be interesting for anyone who is searching for weather forecast. And if they find out about life of a snowman - that is definitely a bonus. When snowman gets ascii images and the app passes condition statements for snowman, it will be quite fun and kids might enjoy it as well: it is a way to learn what happens to snowman in different types of weather.
@@ -35,7 +35,7 @@ Examples:
 
 ## Diagram
 
-![Link to diagram](../docs/Diagram.png)
+![Link](../docs/Diagram.png)
 
 ## Trello
 ![](../docs/screenshots/trello 2.png?raw=true)
