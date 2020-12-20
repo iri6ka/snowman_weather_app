@@ -35,20 +35,20 @@ Examples:
 
 ## Diagram
 
-![Link](../docs/Diagram.png)
+![Link](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/Diagram.png)
 
 ## Trello
-![](../docs/screenshots/trello 2.png?raw=true)
+![1](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/trello%202.png)
 
-![](../docs/screenshots/Trello 3.png?raw=true)
+![2](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/Trello%203.png)
 
-![](../docs/screenshots/Trello 4.png?raw=true)
+![3](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/Trello%204.png)
 
-![](../docs/screenshots/trello 5.png?raw=true)
+![4](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/trello%205.png)
 
-![](../docs/screenshots/Trello 6.png?raw=true)
+![5](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/Trello%206.png)
 
-![](../docs/screenshots/Trello 7.png?raw=true)
+![6](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/Trello%207.png)
 
 ## Implementation plan
 
@@ -80,23 +80,26 @@ Working on command line arguments
 
 There are a few tests running throughout the app. 
 Wrong input of city and country. If city and country don't exist, then the user gets error messages. A few other wrong inputs within the app give error messages.
-![Error1](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/Error%20handline%202.png?raw=true)
-![Error2](../docs/screenshots/error handling 1.png)
-![Error2](../docs/screenshots/error handling 2.png)
-![Error2](../docs/screenshots/error handling 3.png)
-![Error2](../docs/screenshots/error handling 4.png)
-![Error2](../docs/screenshots/error handling 5.png)
-![Error2](../docs/screenshots/error handling 6.png)
-![Error2](../docs/screenshots/error handling 7.png)
+![Error1](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/error%20handling%201.png)
 
+![Error1](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/Error%20handline%202.png)
 
+![Error2](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/error%20handling%202.png)
+
+![Error3](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/error%20handling%203.png)
+
+![Error4](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/error%20handling%204.png)
+
+![Error5](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/error%20handling%206.png)
+
+![Error6](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/error%20handling%207.png)
 
 ## Backlog
 I sat down and refactored some of the donut/sprinkles requirements within my Trello board. Animation stayed as a backlog sprinkle and ascii images of snowman has been downgraded to sprinkle. I will try to implement those after submitting my application. 
 Not complete:
 - [x] animation (partially complete)
 - [x] ascii images of snowman (not complete)
-[Link](https://www.rubydoc.info/gems/ascii-image/0.1.2/ASCII_Image)
+[Link to ASCII_Image gem](https://www.rubydoc.info/gems/ascii-image/0.1.2/ASCII_Image)
 
 ## Help Documentation and System requirements
 
@@ -121,14 +124,21 @@ To run Weather Snowman App you would need to install the following:
 Enjoy!
 
 ```
-**Gem** dependencies can be found through Gemfile & Gemfile.lock
+**Gem** dependencies can be found through `Gemfile` & `Gemfile.lock`
 
 ### Code
 
-![Example1](../docs/screenshots/code 1.png)
-![Example2](../docs/screenshots/code 2.png)
-![Example3](../docs/screenshots/code 3.png)
-![Example4](../docs/screenshots/code 4.png)
-![Example5](../docs/screenshots/code 5.png)
-![Example6](../docs/screenshots/code 6.png)
-![Example7](../docs/screenshots/code 7.png)
+![Example1](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/code%201.png)
+
+![Example](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/code%202.png)
+
+![Example](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/code%203.png)
+
+![Example](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/code%204.png)
+
+![Example](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/code%205.png)
+
+![Example](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/code%206.png)
+
+![Example](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/code%207.png)
+
