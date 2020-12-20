@@ -1,14 +1,13 @@
 # Snowman Weather App
 
-[GITHUB LINK]: (https://github.com/iri6ka/snowman_weather_app)
+[GITHUB LINK](https://github.com/iri6ka/snowman_weather_app)
 
-[TRELLO BOARD]: (https://trello.com/b/K0z1wQ5F/snowman-weather-app)
+[TRELLO BOARD](https://trello.com/b/K0z1wQ5F/snowman-weather-app)
 
-[SLIDE DECK]: (https://docs.google.com/presentation/d/1TiodhFck0bXgd9WnrGsd4DLVyNx5QTGorSmvxqasXoE/edit?usp=sharing)
+[SLIDE DECK](https://docs.google.com/presentation/d/1TiodhFck0bXgd9WnrGsd4DLVyNx5QTGorSmvxqasXoE/edit?usp=sharing)
 
 ### Purpose
-Snowman Weather app is Weather application written in Ruby for terminal which will give you options to find out weather for today, tomorrow, and 5 days (weather api). City lists will be also uploaded through [OpenWeather Ruby Client]:
-(https://github.com/dblock/open-weather-ruby-client)
+Snowman Weather app is Weather application written in Ruby for terminal which will give you options to find out weather for today, tomorrow, and 5 days (weather api). City lists will be also uploaded through [OpenWeather Ruby Client](https://github.com/dblock/open-weather-ruby-client)
 
 ##### Reason
 I decided to develop this app as it was intersting to me how developers are working with various api. As I was going through research, I found various api applications and especially weather applications. It was important for me as for a junior developer to understand the methods and calls behind api calls and the whole journey was quite challenging but very rewarding as I finally figured out how to use it.
