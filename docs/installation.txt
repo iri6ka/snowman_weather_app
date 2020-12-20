@@ -1,0 +1,15 @@
+To run Weather Snowman App you would need to install the following:
+
+1. Ruby ~version 2.7.1p83 or higher. Make sure that you are using rvm or a preferred ruby version manager
+2. Enruse that you are running Ruby ~version 2.7.1p83.
+3. Install the following GEMS:
+    a) install bundler ($ gem install bundler)
+    - $ bundle install
+    b) install tty-prompt ($ gem install tty-prompt)
+    c) install httparty ($ gem install httparty)
+    d) install artii ($ (sudo) gem install artii)
+    e) install colorize ($ install gem colorize)
+    f) add OpenWeather Ruby Client to Gemfile ($ gem 'open-weather-ruby-client'). Then run bundle install.
+4. Run ruby index.rb
+
+Enjoy!
