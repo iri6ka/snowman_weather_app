@@ -53,27 +53,34 @@ Examples:
 ## Implementation plan
 
 *15-16 Dec 2020*
+
 Initial research on the application, idea on what the application might be.
 
 *17-18 Dec 2020*
-For a few days I have been reasearching ways how to implement weather api for my application. As I came across OpenWeather API, I was planning to use it normal way at the beginning. However then I came across OpenWeather Ruby Client and decided to use that one. It seemed to be much simpler to implement this data and it was more straighforward. I managed to run a few error tests and now if the input of city and country don't match in the exsting list of countries and cities, it returns an error message.
 
+For a few days I have been reasearching ways how to implement weather api for my application. As I came across OpenWeather API, I was planning to use it normal way at the beginning. However then I came across OpenWeather Ruby Client and decided to use that one. It seemed to be much simpler to implement this data and it was more straighforward. I managed to run a few error tests and now if the input of city and country don't match in the exsting list of countries and cities, it returns an error message.
 Trello board creation.
 
 *19 Dec 6 pm*
+
 After receiving commentary from teachers based on my presentation, I decided to focus on the mvp and make sure that the core application runs without implementing major sprinkles.
 
 *20 Dec 2 pm*
+
 After consulting educators, I needed to save my api_key in external file and then parse it to the main file. I ran a few tests in a separate file and it returned the required key to me, however it didn't run in the main file. I would appreciate to get some commentary on the best way to parse it to the index.rb file so I know for the future.
 
 *20 Dec 6 pm*
+
 I had to refactor ascii images of the snowman as I couldn't sort out how ascii art gem works
 Now focusing on filling in documnetation.
 
 *20 Dec 7 pm*
+
 Working on command line arguments
 - help
 - version
+
+
 ![](https://github.com/iri6ka/snowman_weather_app/blob/old-project/docs/screenshots/terminal%20arguments%20Screen%20Shot%202020-12-20%20at%208.05.33%20pm.png?raw=true)
 
 ## Testing
